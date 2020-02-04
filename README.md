@@ -2,4 +2,4 @@
 
 # 1. Create turtles
 
-`create-turtles 2`
+`create-turtles 1 [set color green]`
