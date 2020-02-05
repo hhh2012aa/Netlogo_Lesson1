@@ -88,7 +88,17 @@ end
 # to-report fuction
 Same as return function in other programming language
 
+```
+to-report func1 [attr1]
+  report attr1
+end
+```
 # random
 `random`
 `n-random-select`
 
+# Handling list
+`lput`
+`sort`
+`first, last`
+`item`
