@@ -71,3 +71,5 @@ ask target [set color white
 end
 ```
 # Ticks
+`reset-ticks` 
+`ticks`
