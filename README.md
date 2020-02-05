@@ -75,3 +75,20 @@ end
 # Ticks
 `reset-ticks` 
 `ticks`
+
+# Condition
+`if`
+`ifelse`
+
+# Loop
+`foreach`
+`while`
+`loop`
+
+# to-report fuction
+Same as return function in other programming language
+
+# random
+`random`
+`n-random-select`
+
