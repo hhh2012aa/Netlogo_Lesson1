@@ -70,3 +70,4 @@ ask target [set color white
            ] 
 end
 ```
+#Ticks
