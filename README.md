@@ -12,7 +12,8 @@ create a turtle with given attributes:
 ```create-turtles 1 [set color green
                    set shape car
                    set xcor 1
-                   set ycor 2]```
+                   set ycor 2]
+```
  
 # Breeds and variables
 
@@ -57,7 +58,7 @@ end
 `with`
 
 # Interaction between agnets
-
+```
 to go
 ca
 ask cars with [color = green][
