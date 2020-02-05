@@ -3,5 +3,7 @@
 # 1. Create turtles
 
 `create-turtles 1 [set color green
+                   set shape car
                    set xcor 1
                    set ycor 2]`
+                   
