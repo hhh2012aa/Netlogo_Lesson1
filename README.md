@@ -17,12 +17,8 @@ create a turtle with given attributes:
 # Create a new breed
 
 `breed [cars car]`
-
 `breed [passengers passenger]`
-
 `cars-own [year speed]`
-
 `passengers-own [satisfied]`
-
 `globals [cars_num pass_num]`
 
