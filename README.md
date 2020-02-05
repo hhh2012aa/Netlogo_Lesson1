@@ -30,12 +30,16 @@ create a turtle with given attributes:
 
 `
 to go
+
 ask cars [fd 1] 
+
 end
 `
 
 `
 to go
+
 ask cars with [color = green][fd 1] 
+
 end
 `
