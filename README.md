@@ -32,7 +32,6 @@ create-cars 5
   set shape person
   set satisfied false
  ]
- 
 ```
 
 # functions
@@ -58,7 +57,7 @@ end
 `with`
 
 # Interaction between agnets
-```
+
 to go
 ca
 ask cars with [color = green][
