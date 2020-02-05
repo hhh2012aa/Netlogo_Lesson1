@@ -14,7 +14,7 @@ create a turtle with given attributes:
                    set xcor 1
                    set ycor 2]`
  
-# Create a new breed
+# Breeds and variables
 
 `breed [cars car]`
 
@@ -26,3 +26,16 @@ create a turtle with given attributes:
 
 `globals [cars_num pass_num]`
 
+# functions
+
+`
+to go
+ask cars [fd 1] 
+end
+`
+
+`
+to go
+ask cars with [color = green][fd 1] 
+end
+`
