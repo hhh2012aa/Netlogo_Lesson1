@@ -18,6 +18,8 @@ create-turtles 1 [set color green
  
 # Breeds and variables
 
+Netlogo variables: float int bool agent agentset list
+
 ```
 breed [cars car]
 breed [passengers passenger]
