@@ -9,10 +9,11 @@ create a turtle with defult attributes:
 
 create a turtle with given attributes:
 
-```create-turtles 1 [set color green
-                   set shape car
-                   set xcor 1
-                   set ycor 2]
+```
+create-turtles 1 [set color green
+                  set shape car
+                  set xcor 1
+                  set ycor 2]
 ```
  
 # Breeds and variables
@@ -66,6 +67,6 @@ let target one-of passngers with [satisfied = false]
 move-to target
 ask target [set color white 
             set satisfied true]
-] 
+           ] 
 end
 ```
