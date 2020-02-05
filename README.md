@@ -13,5 +13,16 @@ create a turtle with given attributes:
                    set shape car
                    set xcor 1
                    set ycor 2]`
-                   
+ 
+# Create a new breed
+
+`breed [cars car]`
+
+`breed [passengers passenger]`
+
+`cars-own [year speed]`
+
+`passengers-own [satisfied]`
+
+`globals [cars_num pass_num]`
 
