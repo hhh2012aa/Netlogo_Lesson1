@@ -16,15 +16,13 @@ create a turtle with given attributes:
  
 # Breeds and variables
 
-`breed [cars car]`
-
-`breed [passengers passenger]`
-
-`cars-own [year speed]`
-
-`passengers-own [satisfied]`
-
-`globals [cars_num pass_num]`
+```
+breed [cars car]
+breed [passengers passenger]
+cars-own [year speed]
+passengers-own [satisfied]
+globals [cars_num pass_num]
+```
 
 # functions
 
