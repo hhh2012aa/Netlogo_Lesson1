@@ -2,12 +2,12 @@
 
 # Create turtles
 
-create a turtle with defult attributes:
+Create a turtle with defult attributes:
 
 ```crt 1``` or 
 ```create turtles 1 ```
 
-create a turtle with given attributes:
+Create a turtle with given attributes:
 
 ```
 create-turtles 1 [set color green
